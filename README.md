@@ -26,5 +26,5 @@ Black holes · Cosmology · Mysteries of the universe
 - **Z boson or Higgs peak from CERN Open Data**
 
 ## Get in touch
-- [LinkedIn]([your-link](https://www.linkedin.com/in/dishahebbar/))
+- [LinkedIn](https://www.linkedin.com/in/dishahebbar/)
 - 
