@@ -15,8 +15,8 @@ Black holes · Cosmology
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ## Projects
-- [**Onion Rings (Cybersecurity)**](https://github.com/dishahebbar/Onion_Rings_Sandbox2026):
-- [**EMG hand gesture classification (Biotech)**](https://github.com/dishahebbar/emg-handgesture-classification):
+- [**Onion Rings (Cybersecurity)**](https://github.com/dishahebbar/Onion_Rings_Sandbox2026)
+- [**EMG hand gesture classification (Biotech)**](https://github.com/dishahebbar/emg-handgesture-classification)
 - [**Gravitational lensing ray-tracer (Cosmology)**](https://github.com/dishahebbar/gravitational_lensing_ray-tracer.): light bending around a point mass or black hole (in progress)
 
 ## Get in touch
